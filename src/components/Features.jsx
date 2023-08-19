@@ -29,7 +29,7 @@ export function Features() {
 function FeatureCard({ icon, title, text }) {
   return (
     <div className="flex flex-col items-start gap-y-7 border border-slate-255 p-10 rounded-2xl">
-      <span className="text-neutral-400 stroke-current h-8 w-8">{icon}</span>
+      {/* <span className="text-neutral-400 stroke-current h-8 w-8">{icon}</span> */}
       <div>
         <h3 className="font-semibold mb-3">{title}</h3>
         <p>{text}</p>

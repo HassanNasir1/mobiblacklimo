@@ -49,7 +49,7 @@ export default function Form() {
             <div className="mt-6">
               <label
                 htmlFor="email-address"
-                className="block text-sm font-medium text-gray-700"
+                className="block text-md font-medium text-gray-700"
               >
                 Email address
               </label>
@@ -59,7 +59,7 @@ export default function Form() {
                   id="email-address"
                   name="email-address"
                   autoComplete="email"
-                  className="block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm"
+                  className="block w-full rounded-md bg-white border-gray-300 border border-solid shadow-sm focus:border-gray-300 focus-visible:outline-orange-300 focus:ring-gray-300 sm:text-lg"
                 />
               </div>
             </div>
