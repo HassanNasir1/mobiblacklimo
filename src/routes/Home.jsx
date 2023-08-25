@@ -9,6 +9,8 @@ import TailwindHero from "../components/TailwindHero";
 import TailwindFaqs from "../components/TailwindFaqs";
 import Slider from "../components/slider";
 import Form1 from "../components/Form1";
+import WhatsAppIcon from "../components/WhatsappIconComponent";
+
 
 export function Home() {
   return (
@@ -19,6 +21,7 @@ export function Home() {
       <Slider />
       <Form1 />
       <Features />
+      <WhatsAppIcon />
 
       {/* <Quote /> */}
       {/* <FeaturedVehicles /> */}

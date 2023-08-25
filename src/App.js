@@ -9,6 +9,7 @@ import {
   TailwindFaqs,
 } from "./routes";
 import "./main.css";
+import WhatsAppIcon from "./components/WhatsappIconComponent";
 
 const router = createBrowserRouter(
   [
@@ -49,7 +50,14 @@ const router = createBrowserRouter(
 );
 
 function App() {
-  return <RouterProvider router={router} />;
+  return (
+    <RouterProvider router={router}>
+      <div className="min-h-screen">
+        {/* Your app content */}
+        <WhatsAppIcon />
+      </div>
+    </RouterProvider>
+  );
 }
 
 export default App;
