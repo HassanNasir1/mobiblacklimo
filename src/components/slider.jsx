@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 export default function Slider() {
   const [currentIndex, setCurrentIndex] = useState(0);
 
-  const images = ["/suv-1.webp", "/suv-2.jpg", "/suv-3.jpg", "suv-4.webp"];
+  const images = ["suv-1.webp", "suv-2.jpg", "suv-3.jpg", "suv-4.webp"];
 
   const handleNextSlide = () => {
     setCurrentIndex((prevIndex) => (prevIndex + 1) % images.length);

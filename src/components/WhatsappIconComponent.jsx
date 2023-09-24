@@ -10,7 +10,7 @@ const WhatsAppIcon = () => {
       title="Contact through WhatsApp" // Add the title attribute
     >
       <img
-        src="/icons8-whatsapp.svg" // Replace with the correct path to your logo
+        src="icons8-whatsapp.svg" // Replace with the correct path to your logo
         alt="WhatsApp Icon"
         className="w-8 h-8"
       />

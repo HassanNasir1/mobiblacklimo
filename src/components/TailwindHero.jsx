@@ -30,7 +30,7 @@ export default function Example() {
             >
               <img
                 className="h-36 w-40 object-contain"
-                src="/logo4.png"
+                src="logo4.png"
                 alt="Mobi Black Limos"
               />
             </Link>
