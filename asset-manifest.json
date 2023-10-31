@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://HassanNasir1.github.io/mobiblacklimo/static/css/main.e3e94096.css",
-    "main.js": "https://HassanNasir1.github.io/mobiblacklimo/static/js/main.7267d266.js",
-    "static/js/787.5c098355.chunk.js": "https://HassanNasir1.github.io/mobiblacklimo/static/js/787.5c098355.chunk.js",
-    "index.html": "https://HassanNasir1.github.io/mobiblacklimo/index.html",
-    "main.e3e94096.css.map": "https://HassanNasir1.github.io/mobiblacklimo/static/css/main.e3e94096.css.map",
-    "main.7267d266.js.map": "https://HassanNasir1.github.io/mobiblacklimo/static/js/main.7267d266.js.map",
-    "787.5c098355.chunk.js.map": "https://HassanNasir1.github.io/mobiblacklimo/static/js/787.5c098355.chunk.js.map"
+    "main.css": "/static/css/main.e3e94096.css",
+    "main.js": "/static/js/main.db437584.js",
+    "static/js/787.5c098355.chunk.js": "/static/js/787.5c098355.chunk.js",
+    "index.html": "/index.html",
+    "main.e3e94096.css.map": "/static/css/main.e3e94096.css.map",
+    "main.db437584.js.map": "/static/js/main.db437584.js.map",
+    "787.5c098355.chunk.js.map": "/static/js/787.5c098355.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e3e94096.css",
-    "static/js/main.7267d266.js"
+    "static/js/main.db437584.js"
   ]
 }
